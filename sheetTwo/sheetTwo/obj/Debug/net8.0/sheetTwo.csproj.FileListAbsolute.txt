@@ -1,0 +1,14 @@
+D:\Dalia .Net Developer\DEPI\C#\SheetTwo\sheetTwo\sheetTwo\bin\Debug\net8.0\sheetTwo.exe
+D:\Dalia .Net Developer\DEPI\C#\SheetTwo\sheetTwo\sheetTwo\bin\Debug\net8.0\sheetTwo.deps.json
+D:\Dalia .Net Developer\DEPI\C#\SheetTwo\sheetTwo\sheetTwo\bin\Debug\net8.0\sheetTwo.runtimeconfig.json
+D:\Dalia .Net Developer\DEPI\C#\SheetTwo\sheetTwo\sheetTwo\bin\Debug\net8.0\sheetTwo.dll
+D:\Dalia .Net Developer\DEPI\C#\SheetTwo\sheetTwo\sheetTwo\bin\Debug\net8.0\sheetTwo.pdb
+D:\Dalia .Net Developer\DEPI\C#\SheetTwo\sheetTwo\sheetTwo\obj\Debug\net8.0\sheetTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dalia .Net Developer\DEPI\C#\SheetTwo\sheetTwo\sheetTwo\obj\Debug\net8.0\sheetTwo.AssemblyInfoInputs.cache
+D:\Dalia .Net Developer\DEPI\C#\SheetTwo\sheetTwo\sheetTwo\obj\Debug\net8.0\sheetTwo.AssemblyInfo.cs
+D:\Dalia .Net Developer\DEPI\C#\SheetTwo\sheetTwo\sheetTwo\obj\Debug\net8.0\sheetTwo.csproj.CoreCompileInputs.cache
+D:\Dalia .Net Developer\DEPI\C#\SheetTwo\sheetTwo\sheetTwo\obj\Debug\net8.0\sheetTwo.dll
+D:\Dalia .Net Developer\DEPI\C#\SheetTwo\sheetTwo\sheetTwo\obj\Debug\net8.0\refint\sheetTwo.dll
+D:\Dalia .Net Developer\DEPI\C#\SheetTwo\sheetTwo\sheetTwo\obj\Debug\net8.0\sheetTwo.pdb
+D:\Dalia .Net Developer\DEPI\C#\SheetTwo\sheetTwo\sheetTwo\obj\Debug\net8.0\sheetTwo.genruntimeconfig.cache
+D:\Dalia .Net Developer\DEPI\C#\SheetTwo\sheetTwo\sheetTwo\obj\Debug\net8.0\ref\sheetTwo.dll
